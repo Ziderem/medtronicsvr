@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{97C17B36-CA27-FE44-878F-10AB2BBC9AEB}") = "Medtronics", "Assembly-UnityScript.unityproj", "{57CBCD6A-F447-995E-DE8D-39BBCD112D5C}"
+EndProject
+Project("{97C17B36-CA27-FE44-878F-10AB2BBC9AEB}") = "Medtronics", "Assembly-UnityScript-Editor.unityproj", "{0ABAE7F4-2D11-8B7C-A1FA-5AEE2CA247B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{57CBCD6A-F447-995E-DE8D-39BBCD112D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CBCD6A-F447-995E-DE8D-39BBCD112D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CBCD6A-F447-995E-DE8D-39BBCD112D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CBCD6A-F447-995E-DE8D-39BBCD112D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABAE7F4-2D11-8B7C-A1FA-5AEE2CA247B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABAE7F4-2D11-8B7C-A1FA-5AEE2CA247B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABAE7F4-2D11-8B7C-A1FA-5AEE2CA247B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABAE7F4-2D11-8B7C-A1FA-5AEE2CA247B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
